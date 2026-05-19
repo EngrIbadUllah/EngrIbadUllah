@@ -11,12 +11,12 @@ My goal is to create efficient, user-friendly solutions and contribute to innova
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ibadjani&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ibadjani&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibadjani&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=EngrIbadUllah&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=EngrIbadUllah&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=EngrIbadUllah&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ibadjani&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=EngrIbadUllah&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ (BINANCE UID) : 550 452 570)
